@@ -21,7 +21,7 @@
   To install, download the code from GitHub. To run server type in "node server.js' from the command prompt.
   
   ## Usage
-  Open [website](http://huroku.com) in browser.
+  Open [website](https://polar-ocean-42088.herokuapp.com/) in browser.
   
   ## License
   This application is covered under the MIT License license.
